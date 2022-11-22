@@ -23,10 +23,10 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="react" width="40" height="40"/> </a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="react" width="40" height="40"/> </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PaitoDl&label=Profile%20views&color=0e75b6&style=flat" alt="PaitoDl" /> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PaitoDl&show_icons=true&locale=en&layout=compact" alt="PaitoDl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PaitoDl&show_icons=true&locale=en" alt="PaitoDl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PaitoDl&" alt="PaitoDl" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PaitoDl&label=Profile%20views&color=0e75b6&style=flat" alt="PaitoDl" /> </p>
