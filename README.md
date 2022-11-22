@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: <p align="left"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="react" width="40" height="40"/> </a></p>
 
-- 💬 You can ask me about **CSS, HTML, Javascript, React, Redux, Node, Postgres, Express**
+- 💬 You can ask me about **CSS, HTML, Javascript, React, Redux, Node, Postgres, Express, SQL**
 
 - 📫 How to reach me **dilisciafelipe@gmail.com**
 
