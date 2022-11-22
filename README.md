@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 You can ask me about **CSS,HTML,SASS,JAVASCRIPT, Frameworks, React, Redux, Node,**
+- 💬 You can ask me about **CSS, HTML, Javascript, React, Redux, Node, Postgres, Express**
 
 - 📫 How to reach me **dilisciafelipe@gmail.com**
 
