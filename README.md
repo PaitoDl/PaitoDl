@@ -3,8 +3,7 @@
 
 - 📚 I am currently studying at ["Soy Henry"](https://www.soyhenry.com/?utm_source=google&utm_medium=cpc&utm_campaign=GADS_SEARCH_ARG_BRAND&utm_content=brand&gclid=CjwKCAjw77WVBhBuEiwAJ-YoJAQ8Qml2vyqfHfSi742pbrvmOqBPNI-VeVYw-znZXm5kYNqVCBraaRoCCtQQAvD_BwE) to become a full stack developer
 
-- 🌱 I’m currently learning: 
- <p>**Typescript**  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="react" width="40" height="40"/> </a></p>
+- 🌱 I’m currently learning: <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="react" width="40" height="40"/> </a>
 
 - 💬 You can ask me about **CSS, HTML, Javascript, React, Redux, Node, Postgres, Express**
 
